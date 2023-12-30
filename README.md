@@ -28,7 +28,7 @@ This is how it looks like when you open this website and click the Menu bar and 
 ![img3](https://github.com/suprajapalakodeti/Music_website/assets/125487138/c51cb50f-662d-408d-b212-04857d168b34)
 ![img2](https://github.com/suprajapalakodeti/Music_website/assets/125487138/eb764d9f-3778-4bce-8675-95f4fa59c48d)
 ![img1](https://github.com/suprajapalakodeti/Music_website/assets/125487138/fa4ee879-f2d3-470c-99f3-5a5cc61f5e7b)
-This is how when open the options..
+This is how it looks like when open the Idols Menu-option..
 ![kim](https://github.com/suprajapalakodeti/Music_website/assets/125487138/9fda0c7a-d6fd-48c3-a37e-292201c26e45)
 ![home](https://github.com/suprajapalakodeti/Music_website/assets/125487138/d239c626-1596-4dc4-b985-1ef0f28c4a5b)
 👩‍💻TechStack Used
